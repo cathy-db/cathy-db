@@ -1,4 +1,4 @@
-your local polar bear enthusiast 🐻‍❄️🧋
+your local polar bear enthusiast 🐻‍❄️
 
 <!--
 **cathy-db/cathy-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
